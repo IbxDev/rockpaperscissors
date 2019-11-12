@@ -1,6 +1,7 @@
 .row{
   text-align:center;
   color: white;
+  font-weight: bold;
 }
 #choices{
   display:flex;

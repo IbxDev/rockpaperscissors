@@ -7,5 +7,8 @@
 
 
 
-// DOCUMENT READY FUNCTION BELOW
 
+// DOCUMENT READY FUNCTION BELOW
+$("#shoot").click(function() {
+    $("").text($("").val());
+});

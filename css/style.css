@@ -1,9 +1,12 @@
 .row{
   text-align:center;
-  
+  color: white;
 }
 #choices{
   display:flex;
   justify-content:space-between;
   
+}
+body{
+    background-color: black;
 }
